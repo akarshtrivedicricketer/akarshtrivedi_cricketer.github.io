@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: YOUR_GITHUB_PAGES_URL/sitemap.xml
